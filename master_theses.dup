@@ -1,71 +1,18 @@
 Sidetittel,Publisert,Veileder(e)
-AI detection of router location using gyroscopes and LIDAR,15. nov. 2023,"Magnus Olav Hol Skjegstad, Carsten Griwodz"
-SINLAB: Continuous body emotion recognition during creative tasks,2. nov. 2023,"Cagri Erdem, Carsten Griwodz"
-Den nye teknologen: Low-code og dataarbeid,16. okt. 2023,Johanne Thunes
-Expanding the maps of direct TF-DNA interactions across species using open-chromatin data,11. okt. 2023,Anthony Mathelier
-Deep learning approach to decipher the cis-regulatory code in breast cancers,11. okt. 2023,Anthony Mathelier
-Mapping and characterizing cis-regulatory activities in breast cancer at single-cell resolution,11. okt. 2023,"Anthony Mathelier, Xavier Tekpli"
-Empirical analysis of 5G network measurements using Machine Learning,10. okt. 2023,"Konstantinos Kousias, Özgü Alay, Carsten Griwodz"
-Identifying Protein Folds through Matrix Factorization Approaches,9. okt. 2023,Pooya Zakeri
-Revisiting the Protein Fold Recognition Problem Usin Machine Learning Approaches,9. okt. 2023,Pooya Zakeri
-Trust language for decentralised maritime systems,9. okt. 2023,Michael Kirkedal Thomsen
-Energy consumption of programs and computation,9. okt. 2023,Michael Kirkedal Thomsen
-Programming languages with quantum effects,9. okt. 2023,Michael Kirkedal Thomsen
-"Enhancing Cellsnake, a single-Cell RNA sequencing analysis tool",6. okt. 2023,"Sinan Ugur Umu, Diana Domanska, Torbjørn Rognes"
-Analytics to support software development,6. okt. 2023,Antonio Martini
-Digitalization-friendly regulation. Transforming and reasoning about legislative text,5. okt. 2023,"Martin Steffen, Bjarte M. Østvold, Audun Stolpe"
-Channel Allocation for Wi-Fi 6,5. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-Rubbish or quality science? Quality control tool of research papers in your hands,4. okt. 2023,"Torbjørn Rognes, Marcin Wojewodzic"
-Predicting cancer and other diseases based on the quantitative adverse outcome pathway concept - developing a Bayesian tool for risk assessment,4. okt. 2023,"Torbjørn Rognes, Marcin Wojewodzic"
-Testing and Evaluating the new Java Vector API in the Context of Graph Stream Processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-Development of Integration of Language-Agnostic Streaming Operators to Enable GNNs-ready Stream processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-Benchmarking the Magma Framework in the Context of Abstract Data Pipelines and Graph Processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-The Empathic Radio project - Clustering techniques,4. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-The Empathic Radio project - Performance evaluation,4. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-SINLAB: Immersive Musical Human-AI Interactions,4. okt. 2023,"Cagri Erdem, Carsten Griwodz"
-Machine learning for the greater good: understanding how climate change will affect future health,3. okt. 2023,"Geir Kjetil Ferkingstad Sandve, Sune Dueholm Müller, Silvia Masiero"
-AI detection of router location using gyroscopes and LIDAR,15. nov. 2023,"Magnus Olav Hol Skjegstad, Carsten Griwodz"
-SINLAB: Continuous body emotion recognition during creative tasks,2. nov. 2023,"Cagri Erdem, Carsten Griwodz"
-Den nye teknologen: Low-code og dataarbeid,16. okt. 2023,Johanne Thunes
-Expanding the maps of direct TF-DNA interactions across species using open-chromatin data,11. okt. 2023,Anthony Mathelier
-Deep learning approach to decipher the cis-regulatory code in breast cancers,11. okt. 2023,Anthony Mathelier
-Mapping and characterizing cis-regulatory activities in breast cancer at single-cell resolution,11. okt. 2023,"Anthony Mathelier, Xavier Tekpli"
-Empirical analysis of 5G network measurements using Machine Learning,10. okt. 2023,"Konstantinos Kousias, Özgü Alay, Carsten Griwodz"
-Identifying Protein Folds through Matrix Factorization Approaches,9. okt. 2023,Pooya Zakeri
-Revisiting the Protein Fold Recognition Problem Usin Machine Learning Approaches,9. okt. 2023,Pooya Zakeri
-Trust language for decentralised maritime systems,9. okt. 2023,Michael Kirkedal Thomsen
-Energy consumption of programs and computation,9. okt. 2023,Michael Kirkedal Thomsen
-Programming languages with quantum effects,9. okt. 2023,Michael Kirkedal Thomsen
-"Enhancing Cellsnake, a single-Cell RNA sequencing analysis tool",6. okt. 2023,"Sinan Ugur Umu, Diana Domanska, Torbjørn Rognes"
-Analytics to support software development,6. okt. 2023,Antonio Martini
-Digitalization-friendly regulation. Transforming and reasoning about legislative text,5. okt. 2023,"Martin Steffen, Bjarte M. Østvold, Audun Stolpe"
-Channel Allocation for Wi-Fi 6,5. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-Rubbish or quality science? Quality control tool of research papers in your hands,4. okt. 2023,"Torbjørn Rognes, Marcin Wojewodzic"
-Predicting cancer and other diseases based on the quantitative adverse outcome pathway concept - developing a Bayesian tool for risk assessment,4. okt. 2023,"Torbjørn Rognes, Marcin Wojewodzic"
-Testing and Evaluating the new Java Vector API in the Context of Graph Stream Processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-Development of Integration of Language-Agnostic Streaming Operators to Enable GNNs-ready Stream processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-Benchmarking the Magma Framework in the Context of Abstract Data Pipelines and Graph Processing,4. okt. 2023,"Carsten Griwodz, Daniel Thilo Schroeder, Brian Elvesæter"
-The Empathic Radio project - Clustering techniques,4. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-The Empathic Radio project - Performance evaluation,4. okt. 2023,"Tor Skeie, Magnus Olav Hol Skjegstad"
-SINLAB: Immersive Musical Human-AI Interactions,4. okt. 2023,"Cagri Erdem, Carsten Griwodz"
-Machine learning for the greater good: understanding how climate change will affect future health,3. okt. 2023,"Geir Kjetil Ferkingstad Sandve, Sune Dueholm Müller, Silvia Masiero"
-SINLAB: From laser scan to model,3. okt. 2023,Carsten Griwodz
-In-network processing with SmartNICs,3. okt. 2023,Carsten Griwodz
-AliceVision: SIFT with modern GPU programming techniques,2. okt. 2023,"Carsten Griwodz, Håkon Kvale Stensland"
-AliceVision: modern GPU programming for real-time tracking,2. okt. 2023,"Carsten Griwodz, Håkon Kvale Stensland"
-SINLAB: Solving the packet loss in multicasting for live videos streaming,2. okt. 2023,Carsten Griwodz
-SINLAB: Streaming VR video,2. okt. 2023,"Carsten Griwodz, Özgü Alay"
+Trust language for decentralised maritime systems,30. sep. 2023,Michael Kirkedal Thomsen
+Energy consumption of computation,30. sep. 2023,Michael Kirkedal Thomsen
 Development and Analysis of Cognitive Robot Controllers,29. sep. 2023,"Tobias John, Einar Broch Johnsen, Eduard Kamburjan"
 Implement OTTR in a semantic technology language,27. sep. 2023,"Martin Georg Skjæveland, Leif Harald Karlsen"
 Dependly typed programming (for security),27. sep. 2023,Martin Steffen
 Refactoring-related projects,27. sep. 2023,"Volker Stolz, Martin Steffen"
-Verification Tool for Concurrent Software,27. sep. 2023,"Martin Steffen, Volker Stolz"
+Verification Tool for Concurrent Software,27. sep. 2023,"Violet Ka I Pun, Martin Steffen, Volker Stolz"
 Runtime Verification with Linux BPF,27. sep. 2023,"Volker Stolz, Martin Steffen"
 Oppgaver innen formell modellering og analyse ved bruk av Maude og Real-Time Maude,27. sep. 2023,Peter Csaba Ølveczky
 "Smidig systemutvikling, utfordringer og suksessfaktorer i stor-skala smidig, teamarbeid i utviklingsteam, koordinering, produktledelse m.m.",26. sep. 2023,Marthe Nordengen Berntzen
 Machine learning and climate health: Building on predictive potential?,25. sep. 2023,"Geir Kjetil Ferkingstad Sandve, Silvia Masiero, Sune Dueholm Müller"
 Education management information systems in the Gambia,25. sep. 2023,Terje Aksel Sanner
 master-thesis-topics-by-paulo-ferreira,25. sep. 2023,Paulo Ferreira
+Digital samhandling på tvers av behandlingsnivåer i helsetjenesten,22. sep. 2023,Alexander Moltubakk Kempton
 Playing the service game - the digitalization of user-centric processes,22. sep. 2023,"Paul Kobialka, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen"
 Modelling and Analysis of a Self-Adaptive Underwater Robot,22. sep. 2023,"Juliane Linda Pässler, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen"
 Formal semantics for robot controllers,22. sep. 2023,"Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa"
@@ -73,10 +20,36 @@ Programming with GDPR compliance,22. sep. 2023,Einar Broch Johnsen
 Combining deductive verification and testing by symbolic execution,22. sep. 2023,"Einar Broch Johnsen, Eduard Kamburjan"
 Backwards symbolic execution,22. sep. 2023,"Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa, Eduard Kamburjan"
 The hidden debt in bioinformatics software: challenges and consequences of (poor) software quality,22. sep. 2023,"Antonio Martini, Katalin Terezia Ferenc"
-Learning / Handling Moral Preferences,22. sep. 2023,"Anne-Marie George, Ana Helena Ozaki Rivera Castillo"
+Learning / Handling Moral Preferences,22. sep. 2023,"Anne-Marie George, Ana Ozaki"
 Human-AI collaboration in healthcare,20. sep. 2023,"Johan Ivar Sæbø, Troels Sune Mønsted, Sune Dueholm Müller"
-SINLAB: Immersive remote interactions leveraging Machine Learning,19. sep. 2023,"Özgü Alay, Carsten Griwodz, Konstantinos Kousias, Jim Tørresen"
-SINLAB: Machine Learning based Localization in 5G Networks (with Sapienza University of Rome),19. sep. 2023,"Özgü Alay, Giuseppe Caso, Luca De Nardis"
+Organizing for digital innovation and digitalization,20. sep. 2023,Magnus Li
+SINLAB: Immersive remote interactions,19. sep. 2023,"Özgü Alay, Carsten Griwodz, Konstantinos Kousias, Jim Tørresen"
+Trust language for decentralised maritime systems,30. sep. 2023,Michael Kirkedal Thomsen
+Energy consumption of computation,30. sep. 2023,Michael Kirkedal Thomsen
+Development and Analysis of Cognitive Robot Controllers,29. sep. 2023,"Tobias John, Einar Broch Johnsen, Eduard Kamburjan"
+Implement OTTR in a semantic technology language,27. sep. 2023,"Martin Georg Skjæveland, Leif Harald Karlsen"
+Dependly typed programming (for security),27. sep. 2023,Martin Steffen
+Refactoring-related projects,27. sep. 2023,"Volker Stolz, Martin Steffen"
+Verification Tool for Concurrent Software,27. sep. 2023,"Violet Ka I Pun, Martin Steffen, Volker Stolz"
+Runtime Verification with Linux BPF,27. sep. 2023,"Volker Stolz, Martin Steffen"
+Oppgaver innen formell modellering og analyse ved bruk av Maude og Real-Time Maude,27. sep. 2023,Peter Csaba Ølveczky
+"Smidig systemutvikling, utfordringer og suksessfaktorer i stor-skala smidig, teamarbeid i utviklingsteam, koordinering, produktledelse m.m.",26. sep. 2023,Marthe Nordengen Berntzen
+Machine learning and climate health: Building on predictive potential?,25. sep. 2023,"Geir Kjetil Ferkingstad Sandve, Silvia Masiero, Sune Dueholm Müller"
+Education management information systems in the Gambia,25. sep. 2023,Terje Aksel Sanner
+master-thesis-topics-by-paulo-ferreira,25. sep. 2023,Paulo Ferreira
+Digital samhandling på tvers av behandlingsnivåer i helsetjenesten,22. sep. 2023,Alexander Moltubakk Kempton
+Playing the service game - the digitalization of user-centric processes,22. sep. 2023,"Paul Kobialka, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen"
+Modelling and Analysis of a Self-Adaptive Underwater Robot,22. sep. 2023,"Juliane Linda Pässler, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen"
+Formal semantics for robot controllers,22. sep. 2023,"Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa"
+Programming with GDPR compliance,22. sep. 2023,Einar Broch Johnsen
+Combining deductive verification and testing by symbolic execution,22. sep. 2023,"Einar Broch Johnsen, Eduard Kamburjan"
+Backwards symbolic execution,22. sep. 2023,"Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa, Eduard Kamburjan"
+The hidden debt in bioinformatics software: challenges and consequences of (poor) software quality,22. sep. 2023,"Antonio Martini, Katalin Terezia Ferenc"
+Learning / Handling Moral Preferences,22. sep. 2023,"Anne-Marie George, Ana Ozaki"
+Human-AI collaboration in healthcare,20. sep. 2023,"Johan Ivar Sæbø, Troels Sune Mønsted, Sune Dueholm Müller"
+Organizing for digital innovation and digitalization,20. sep. 2023,Magnus Li
+SINLAB: Immersive remote interactions,19. sep. 2023,"Özgü Alay, Carsten Griwodz, Konstantinos Kousias, Jim Tørresen"
+SINLAB: Localization in 5G Networks (with Sapienza University of Rome),19. sep. 2023,"Özgü Alay, Giuseppe Caso, Luca De Nardis"
 SINLAB: Energy Analytics for 5G Networks (with Telefonica Research),19. sep. 2023,"Özgü Alay, Andra Lutu"
 A chatty digital twin for factories,15. sep. 2023,"Antonio Martini, Karthik Shivashankar, Morten Steen"
 Ontology Summarization via Language Model,13. sep. 2023,Jieying Chen
@@ -84,8 +57,8 @@ What do we commit to? Using ML to understand Privacy Policies of Health Related 
 Data Utility Needs for Apps on Health and Sport,7. sep. 2023,Thomas Peter Plagemann
 Ontology of Information That can be Inferred From Sensors on Mobile Devices,7. sep. 2023,Thomas Peter Plagemann
 Ontology of Privacy-Preserving Mechanisms for Stream Processing,7. sep. 2023,Thomas Peter Plagemann
-Probing Language Models: A Study Case on Biases using the Census Dataset,7. sep. 2023,"Ana Helena Ozaki Rivera Castillo, Ingrid Chieh Yu"
-Extracting Ontologies from Language Models via Queries,7. sep. 2023,"Ana Helena Ozaki Rivera Castillo, Ingrid Chieh Yu"
+Probing Language Models: A Study Case on Biases using the Census Dataset,7. sep. 2023,"Ana Ozaki, Ingrid Chieh Yu"
+Extracting Ontologies from Language Models via Queries,7. sep. 2023,"Ana Ozaki, Ingrid Chieh Yu"
 Verification of Meta-controllers,1. sep. 2023,"Juliane Linda Pässler, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen"
 Logisk resonnering om programmeringsspråk,1. sep. 2023,Einar Broch Johnsen
 SINLab: PointCloud interpretation using ML,1. sep. 2023,"Carsten Griwodz, Tobias Meuser"
@@ -93,11 +66,14 @@ How Generally Useful are Specific Software Tools & Methods?,30. aug. 2023,"Dag S
 Organisering av software utviklingsteam i offentlige sektor,30. aug. 2023,Johanne Thunes
 Improving work processes and logistics at a hospital using visual data simulations,30. aug. 2023,Troels Sune Mønsted
 Digitalisering av gravferd i Norge - bli med i prosessen og gjør en forskjell!,30. aug. 2023,Vetle Alvenes Utvik
-SINLab: XR - human motion from a robot arm?,29. aug. 2023,"Carsten Griwodz, Özgü Alay, Cagri Erdem, Konstantinos Kousias, Omid Mirmotahari"
-SINLab: Advanced Redirected Walking strategies,25. aug. 2023,"Carsten Griwodz, Sayed Muchallil"
-SINLab: Redirected Walking in spite of real-world sounds,25. aug. 2023,"Carsten Griwodz, Sayed Muchallil"
-SINLab: The impact of prediction and latency on Redirected Walking,25. aug. 2023,"Carsten Griwodz, Sayed Muchallil"
-SINLab: Redirected Walking in (un)realistic virtual worlds,25. aug. 2023,"Carsten Griwodz, Sayed Muchallil"
+SINLab: XR - human motion from a robot arm?,29. aug. 2023,"Carsten Griwodz, Özgü Alay, Cagri Erdem, Konstantinos Kousias"
+"Edge computing with Kubernetes: Robust, decentralized storage",29. aug. 2023,"Carsten Griwodz, Frank Trethan Johnsen"
+Edge computing with Kubernetes: No-overhead network capacity estimation,29. aug. 2023,"Carsten Griwodz, Frank Trethan Johnsen"
+Edge computing with Kubernetes: Resource scheduling,29. aug. 2023,"Carsten Griwodz, Frank Trethan Johnsen"
+SINLab: Advanced Redirected Walking strategies,25. aug. 2023,"Carsten Griwodz, Muchallil Sayed"
+SINLab: Redirected Walking in spite of real-world sounds,25. aug. 2023,"Carsten Griwodz, Muchallil Sayed"
+SINLab: The impact of prediction and latency on Redirected Walking,25. aug. 2023,"Carsten Griwodz, Muchallil Sayed"
+SINLab: Redirected Walking in (un)realistic virtual worlds,25. aug. 2023,"Carsten Griwodz, Muchallil Sayed"
 SINLab: Creating Pointclouds from 3D models with realistic errors,18. aug. 2023,"Carsten Griwodz, Tobias Meuser"
 Knowledge Graph for Sleep-Related Respiratory Disorders,16. aug. 2023,"Marta Quemada Lopez, Vera Hermine Goebel"
 Bring your own Thesis Topic!,16. aug. 2023,"Terje Aksel Sanner, Alexander Moltubakk Kempton, Silvia Masiero, Sune Dueholm Müller, Petter Nielsen, Johanne Thunes"
@@ -106,8 +82,12 @@ Actionability of climate health data in Malawi,9. aug. 2023,Silvia Masiero
 Decision Support for the Fediverse,8. aug. 2023,"Einar Broch Johnsen, Eduard Kamburjan"
 Estimating the Human Effort for Software Specification,8. aug. 2023,"Einar Broch Johnsen, Eduard Kamburjan"
 Local routine information use in Tanzania,7. aug. 2023,"Johan Ivar Sæbø, Troels Sune Mønsted"
-Developing VR Environments for Productivity,9. feb. 2023,"Joseph Maloba Makokha, Ingrid Chieh Yu"
+Developing VR Environments for Productivity,9. feb. 2023,"Joseph Makokha, Ingrid Chieh Yu"
+Reducing interference between Wi-Fi channels,20. jan. 2023,"Tor Skeie, Torleiv Maseng"
 Summarization of Ontology via Machine Learning Techniques,24. nov. 2022,Jieying Chen
+Solving the packet loss in multicasting for live videos streaming,11. nov. 2022,Carsten Griwodz
+From laser scan to model,11. nov. 2022,Carsten Griwodz
+Immersive Musical Human-AI Interactions,11. nov. 2022,"Cagri Erdem, Carsten Griwodz"
 Digital System Models – Implementation and application,13. okt. 2022,Francisco Martin-Recuerda
 Applying Deep Learning and Semantic Technologies for Data Integration,13. okt. 2022,Francisco Martin-Recuerda
 Evaluation of pattern-based ontology engineering approaches,13. okt. 2022,Martin Georg Skjæveland
@@ -118,7 +98,7 @@ SecDevOpsTwin: A SecDevOps Digital Twin approach for business continuity across 
 Simulation environment for synthesizing data pipeline-based event logs,11. okt. 2022,Andrea Marrella
 Dark Data identification from event logs,11. okt. 2022,Andrea Marrella
 "Reliability, Privacy, and Security of Trading Systems for shares of startup companies",7. okt. 2022,"Olaf Owe, Peter Csaba Ølveczky"
-FMUs for runtime monitoring in RTLola,6. okt. 2022,"Einar Broch Johnsen, Eduard Kamburjan, Rudolf Schlatte, Volker Stolz, Cezar Sanchez (IMDEA)"
+FMUs for runtime monitoring in RTLola,6. okt. 2022,"Einar Broch Johnsen, Eduard Kamburjan, Rudolf Schlatte, Volker Stolz, Violet Ka I Pun, Cezar Sanchez (IMDEA)"
 Generating Adaptation Heuristics for Intermittently Powered Batteryless Sensors via Evolutionary Algorithms,5. okt. 2022,"Ketil Stølen, Arda Goknil"
 Eksekveringsstrategier for sanntidssystemer,5. okt. 2022,Peter Csaba Ølveczky
 Interactive visualization of single-cell RNA-Seq analysis,4. okt. 2022,"Diana Domanska, Sinan Ugur Umu, Frode Lars Jahnsen, Torbjørn Rognes"
@@ -126,6 +106,9 @@ Benchmark ML-based simulation methods,4. okt. 2022,"Chakravarthi Kanduri, Geir K
 Automated processing of privacy policies using NLP and deep learning,3. okt. 2022,"Ketil Stølen, Shukun Tokas, Arda Goknil, Sagar Sen"
 "Innovasjon, smidig systemutvikling, hybrid arbeidsdag, agile coaching, koordinering, møter",29. sep. 2022,Viktoria Stray
 A systematic literature review on privacy issues and secure data sharing for distributed energy management systems: categorization and analysis of available data and existing approaches,28. sep. 2022,"Sabita Maharjan, Shiliang Zhang"
+The Empathic Radio project - Clustering techniques,28. sep. 2022,"Tor Skeie, Torleiv Maseng"
+The Empathic Radio project - Performance evaluation,28. sep. 2022,"Tor Skeie, Torleiv Maseng"
+Channel Allocation for Wi-Fi 6,28. sep. 2022,Tor Skeie
 "Developing a reproducible, flexible data analysis pipeline for Next Generation Sequencing (NGS) data with Snakemake",27. sep. 2022,"Torbjørn Rognes, Adnan Hashim, John Arne Dahl"
 Radio scheduling for eXtended Reality (XR) in 5G Networks (with Ericsson Research),27. sep. 2022,"Özgü Alay, Giuseppe Caso"
 In-network Acceleration of Distributed In-Memory Machine Learning,27. sep. 2022,"Amir Taherkordi, Xing Cai, Masoud Hemmatpour (Simula)"
@@ -135,7 +118,8 @@ Design of patient-centric eHealth and digital self-care technologies,26. sep. 20
 "Intelligent motion control by 5G, edge computing, and digital-physical twins",25. sep. 2022,"Amir Taherkordi, Zhibo Pang (at ABB)"
 Statistical Modeling of Human Populations for Universal Vaccine Design,23. sep. 2022,"Eivind Hovig, Brandon Malone, Trevor Clancy"
 Dynamic link prediction and time prediction on Temporal Knowledge Graphs,22. sep. 2022,"Egor Kostylev, Roxana Pop"
-SINLAB: Geometric pointcloud compression for mobile streaming,22. sep. 2022,"Carsten Griwodz, Özgü Alay"
+Streaming VR video,22. sep. 2022,"Carsten Griwodz, Özgü Alay"
+Geometric pointcloud compression for mobile streaming,22. sep. 2022,"Carsten Griwodz, Özgü Alay"
 Self-explainable AI for the Internet of Things,19. sep. 2022,"Ketil Stølen, Sagar Sen"
 Lifelong machine learning for the Internet of Things,19. sep. 2022,"Ketil Stølen, Sagar Sen"
 Developing bioinformatics software to identify and analyse the gut sporobiome,15. sep. 2022,"Trine Ballestad Rounge, Ekaterina Avershina"
@@ -144,6 +128,7 @@ Cancer Diagnosis using Longitudinal Serum RNA Measurements and Machine Learning,
 Explainable ML for sleep-related respiratory disorders,13. sep. 2022,"Vera Hermine Goebel, Thomas Peter Plagemann"
 "From sensor to ML – Integrated data warehouse support for health data acquisition, curation, management and ML",13. sep. 2022,"Vera Hermine Goebel, Thomas Peter Plagemann"
 A domain-specific language for real-estate floor plans,24. aug. 2022,"Martin Steffen, Bjarte M. Østvold"
+Bioinformatics analysis pipeline for SARS-CoV-2 sequencing,23. aug. 2022,"Jon Bråte, Torbjørn Rognes"
 Innovation Knowledge Graph for understanding innovation lifecycle,18. aug. 2022,Marko Grobelnic
 Specs2Transform: from the specification of semantic annotations of tabular data to ETL pipelines for big data,15. aug. 2022,Matteo Palmonari
 Evaluation of the impact of semantic enrichment on downstream analytics,15. aug. 2022,Matteo Palmonari
@@ -191,7 +176,7 @@ AI-based virtual avatars for police interview training,30. aug. 2021,"Pål Halvo
 Knowledge Graphs-based real-time Digital Twins with analytics support,29. juni 2021,"Maryna Waszak, An Ngoc Lam"
 Collaborative Image Annotation for Deep Learning,7. mai 2021,Maryna Waszak
 Contextualizing images with heterogenous data from multiple sources,7. mai 2021,Maryna Waszak
-Efficient Simulation of IoT Systems,15. okt. 2020,"Volker Stolz, Rudolf Schlatte"
+Efficient Simulation of IoT Systems,15. okt. 2020,"Volker Stolz, Rudolf Schlatte, Violet Ka I Pun"
 Selected Topics in Cellular Automata,13. okt. 2020,Roger Antonsen
 Generalizing Bitcoin's difficulty,9. okt. 2020,"Andrea Merlina, Roman Vitenberg"
 Watermarking Neural Networks,9. okt. 2020,"Andrea Merlina, Roman Vitenberg"
@@ -201,6 +186,7 @@ Data Visualization for Discrete Event Models,30. sep. 2020,"Rudolf Schlatte, Sil
 Code classification based on software graph similarities,11. sep. 2020,"Amir Taherkordi, Geir Horn"
 Easy Query Formulation for Complex Relationships,12. aug. 2020,"Martin Giese, Ahmet Soylu"
 Bioinformatics: Associating gene regulatory networks with 3D genome information,3. feb. 2020,"Marieke Kuijjer, Jonas Paulsen"
+The portal,30. sep. 2019,Carsten Griwodz
 Reinforcement learning with biased models,25. sep. 2019,Christos Dimitrakakis
 Differential privacy in online learning,25. sep. 2019,Christos Dimitrakakis
 Finding explanation for ontologies,25. sep. 2019,"Jieying Chen, Martin Giese"
